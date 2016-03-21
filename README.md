@@ -1,4 +1,4 @@
-                          THE DECRYPTER
+                                                     THE DECRYPTER
   
   
   This program is based on 3 files : the main, the child, the great child.
@@ -6,7 +6,7 @@
   The main (Main.c) will browse the folder (which contains encrypt files), he will create a child process for each files (mini-projet.c),
   this child process will create other child processes (fils.c) in order to test all the decryption methods possible (25).
   
-  If the child process finds the name that you're seeking for, it will stop and print you in which file and with which method it was found.
+  If the child process finds the name that you're seeking for, it will stop and print for you in which file and with which method it was found.
            
            
                       
