@@ -17,4 +17,4 @@
   => The program will search the name CHOPIN in the 73 files by using 25 methods of decryption 
      The program will tell you in which file it is and with which method it found.
      
-  Other name to try: 'DUBOIS','GAMORY','GUIBERT'   
+  Other names to try: 'DUBOIS','GAMORY','GUIBERT'   
