@@ -10,7 +10,7 @@
            
            
                       
-  To execute : ' ./main "CodeMessages" $name ' $name: the name that you are seeking
+  To execute : ' ./main "CodeMessages" $name ' $name: the name that you are seeking  (don't forget to compile before...)
   
   Example: ./main "CodeMessages" CHOPIN
   
