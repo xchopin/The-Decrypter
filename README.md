@@ -4,7 +4,7 @@
   This program is based on 3 files : the main, the child, the great child.
   
   The main (Main.c) will browse the folder (which contains encrypt files), it will create a child process (mini-projet.c) for each files ,
-  this child process will create other child processes (fils.c) in order to test all the decryption methods possible (25).
+  this child process will create other child processes (fils.c) in order to test all the decryption methods possible (25 maximum).
   
   If the child process finds the name that you're seeking for, it will stop and print for you in which file and with which method it was found.
            
