@@ -1,6 +1,7 @@
-                                                     THE DECRYPTER
+## The Decrypter
   
-  
+  <img src='https://github.com/xchopin/The-Decrypter/blob/master/preview.png'/>
+
   This program is based on 3 files : the main, the child, the great child.
   
   The main (Main.c) will browse the folder (which contains encrypt files), it will create a child process (mini-projet.c) for each files ,
@@ -10,12 +11,22 @@
            
            
                       
-  To execute : ' ./main "CodeMessages" $name ' $name: the name that you are seeking  (don't forget to compile before...)
+### Run the program :
+```bash
+./main "CodeMessages" $name
+```  
+
+$name: the name that you are seeking  (don't forget to compile before...)
   
-  Example: ./main "CodeMessages" CHOPIN
-  
+
+### Example:
+
+```bash
+./main "CodeMessages" CHOPIN
+```    
   => The program will search the name CHOPIN in the 73 files by using 25 methods of decryption 
      The program will tell you in which file it is and with which method it found.
      
   Other names to try: 'DUBOIS','GAMORY','GUIBERT'   
   
+
